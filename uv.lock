@@ -3,7 +3,7 @@ revision = 3
 requires-python = ">=3.12"
 
 [[package]]
-name = "analytics-project"
+name = "applied-ml-new-matthew-block"
 version = "0.0.1"
 source = { editable = "." }
 dependencies = [
